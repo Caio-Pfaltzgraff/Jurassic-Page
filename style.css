@@ -1,0 +1,239 @@
+*{
+    margin: 0px;
+}
+
+body{
+    background-color: #123123;
+}
+
+.topodiv{
+    width: 900px;
+    height: 200px;
+    background-image: url("https://static.vecteezy.com/ti/vetor-gratis/p1/6138991-uma-listras-perigo-sujas-e-desgastadas-textura-aviso-listras-fundo-retangular-amarelo-e-preto-na-diagonal-um-aviso-para-ser-cuidado-gr%C3%A1tis-vetor.jpg");
+    margin: 0 auto;
+}
+
+.imagemLogotipo{
+    heigth: 135px;
+    width: 200px;
+    position: relative;
+    top: 21px;
+    left: 40px;
+}
+
+.menudiv{
+    width: 500px;
+    height: 40px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLPQvNPITNm5KtTa5N6Y38ux4ArKZeyQsFg&usqp=CAU");
+    
+    position: relative; 
+    top: -80px; 
+    left: 325px;
+    
+    border: 2px solid #ffffff;
+    border-radius: 20px 0px 20px 0px;
+    line-height: 40px; 
+    text-align: center;
+    box-shadow: 0px 0px 25px #123123;
+}
+
+.menuLink{
+    font-family: Arial;
+    color: #ffffff;
+    font-weight: bold;
+    text-shadow: 2px 2px #123123;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.menuLink:hover{
+    text-decoration: underline;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Nabla&display=swap');
+
+.divTitulo{
+    width: 900px;
+    height: 100px;
+    background-color: #550000;
+    text-align: center;
+    line-height: 100px;
+    margin: 0 auto; 
+}
+
+.titulo{
+    font-family: 'Bungee Spice', cursive;
+  text-shadow: 2px 2px #123123;
+    font-size: 40px;
+    letter-spacing: 5px;
+}
+
+.painelA{
+    width: 900px;
+    height: 300px;
+    background-color: #ffffff;
+    margin: 0 auto;
+}
+
+.painelB{
+     width: 900px;
+    height: 300px;
+    background-color: #555555;
+    margin: 0 auto;
+}
+
+.filmePosterA{
+    heigth: 135px;
+    width: 150px;
+    border: 5px solid #ff0000;
+    float: left;
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+
+.filmePosterB{
+    max-heigth: 135px;
+    width: 140px;
+    border: 5px solid #ffff00;
+    float: right;
+    position: relative;
+    top: 40px;
+    right: 40px;
+}
+
+.filmeTituloA{
+    position: relative;
+    top: 50px;
+    left: 90px;
+    margin: 0;
+}
+
+.filmeTituloB{
+    position: relative;
+    top: 50px;
+    left: 40px;
+    color: #ffffff;
+}
+
+.filmeTextoA{
+    width: 750px;
+    position: relative;
+    top: 50px;
+    left: 90px;
+}
+
+.filmeTextoB{
+   width: 650px;
+   color: #ffffff;
+   position: relative;
+   top: 50px;
+   left: 40px;
+}
+
+p{
+    margin-top: 15px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.painelTabela{
+    width: 900px;
+    height: 400px;
+    background-image: url("http://1.bp.blogspot.com/-lfxh5WaB_aI/U8iAtk1BH1I/AAAAAAAAAhw/_rYVrCJDEQ4/s1600/wallpaper-88808.jpg");
+    background-attachment: fixed;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.titulo2{
+   font-family: 'Bungee Spice', cursive;
+    position: relative;
+    top: 50px;
+    margin: 0 auto;
+    text-shadow: 2px 2px #123123;
+}
+
+.tabelaPremios{
+    position: relative;
+    top: 80px;
+    margin: 0 auto;
+    width: 400px;
+    height: 200px;
+}
+
+.thPremios{
+    background-color: #333333;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.trPremios{
+    text-align: center;
+}
+
+.trPremios:nth-child(even){
+     background-color: #999999;
+}
+
+.trPremios:nth-child(odd){
+    background-color: #dddd00;
+}
+
+.criadorDeNome{
+   width: 900px;
+   height: 320px;
+   background-color: #123123;
+   margin: 0 auto; 
+   text-align: center;
+}
+
+.tituloCriador{
+  font-family: 'Bungee Spice', cursive;
+   position: relative;
+   top: 50px;
+  text-shadow: 3px 3px #123123;
+}
+
+.formulario{
+   color: #ffffff;
+   position: relative;
+   top: 60px;
+}
+
+.botao{
+   position: relative;
+   top: 20px;
+}
+
+h2#resultado{
+  width: 400px;
+  background-color: #000000;
+  font-size:30px;
+  font-family: 'Passions Conflict';
+  
+  position: relative;
+  top: 27px;
+  left: 50%;
+  margin-left: -200px;
+  
+  border-radius: 20px;
+}
+
+.painelRodape{
+    width: 900px;
+    height: 50px;
+    background-image: url("https://static.vecteezy.com/ti/vetor-gratis/p1/6138991-uma-listras-perigo-sujas-e-desgastadas-textura-aviso-listras-fundo-retangular-amarelo-e-preto-na-diagonal-um-aviso-para-ser-cuidado-gr%C3%A1tis-vetor.jpg");
+    text-align: center;
+    line-height: 50px;
+    margin: 0 auto;
+}
+
+.conteudoRodape{
+    margin-top: 0px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: bold;
+    text-shadow: 2px 2px #123123;
+}
